@@ -1,0 +1,5 @@
+[2022-Jul-14 19:41:55] Exception: 'dict' object has no attribute 'lower'
+[2022-Jul-14 19:45:05] Exception: 'dict' object has no attribute 'lower'
+[2022-Jul-14 19:46:56] Exception: 'dict' object has no attribute 'lower'
+[2022-Jul-14 20:56:32] Exception: 'dict' object has no attribute 'lower'
+[2022-Aug-04 11:56:58] Exception: 'dict' object has no attribute 'lower'
